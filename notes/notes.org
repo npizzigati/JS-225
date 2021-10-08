@@ -1,0 +1,3 @@
+* Arrow functions
+https://enlear.academy/difference-between-arrow-function-and-normal-function-ab849dcee121
+The value of this inside an arrow function remains the same throughout the lifecycle of the function and is always bound to the value of this in the closest non-arrow parent function which means No matter how or where being executed, this value inside of an arrow function always equals this value from the outer function.

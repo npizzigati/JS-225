@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "host": "localhost",
+      "name": "JS225",
+      "type": "chrome",
+      "port": 9222
+    }
+  ]
+}
